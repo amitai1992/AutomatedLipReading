@@ -1,7 +1,7 @@
 **Final project vision for project instructor Dr.  Lee-Ad Gottlieb**
 
-**Team members:** Evgeny Vendrov 313962193, Amitai Zamir 204324305, Tal Noam
-204395715
+**Team members:** Evgeny Vendrov, Amitai Zamir, Tal Noam
+
 
 **Project topic:** Deep Learning Visual Speech Recognition Algorithm
 
