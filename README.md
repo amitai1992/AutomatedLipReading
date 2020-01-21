@@ -6,7 +6,7 @@
 **Project topic:** Deep Learning Visual Speech Recognition Algorithm
 
 Our goal is to develop an algorithm which will receive voice-less (or will just
-ignore voice) video of a speaking person as input and will output everything the
+ignore voice) video of a speaking person as input and output everything the
 person said as text, our mission is to tackle this problem as an "open world
 problem" – we want our system to be able to work well with the whole language,
 this means – we're not trying to learn only specific phrases or word.
